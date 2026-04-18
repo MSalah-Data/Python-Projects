@@ -17,13 +17,13 @@ Analyze crime data to uncover patterns in crime timing, location, and victim dem
 ## 📈 Visualizations
 
 ### Top Crimes
-![Top Crimes](top_crimes.png)
+![Top Crimes](images/top_crimes.png)
 
 ### Crime by Hour
-![Crime by Hour](crime_by_hour.png)
+![Crime by Hour](images/crime_by_hour.png)
 
 ### Victim Age Distribution
-![Victim Age Distribution](age_distribution.png)
+![Victim Age Distribution](images/age_distribution.png)
 
 ---
 
