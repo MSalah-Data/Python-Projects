@@ -5,6 +5,12 @@ Analyze crime data to uncover patterns in crime timing, location, and victim dem
 
 ---
 
+## 💡 Problem Statement
+Understanding crime patterns is essential for improving public safety. 
+This project analyzes crime data to identify when and where crimes are most likely to occur, and which demographics are most affected.
+
+---
+
 ## 📊 Key Insights
 
 - 🕛 Peak crime hour: **12 PM**
