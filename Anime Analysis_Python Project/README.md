@@ -70,6 +70,31 @@ Several analyses were performed to understand the dataset:
 * Episode count has weak influence on ratings
 
 ---
+## 📸 Project Preview
+
+### 📊 Distribution of Anime Ratings
+
+![Rating Distribution](images/Distribution_of_Anime_Ratings.png)
+
+---
+
+### 🔝 Top 10 Anime by Popularity
+
+![Top Anime](images/Top_10_Anime_by_Members.png)
+
+---
+
+### 🎭 Distribution of Anime Types
+
+![Anime Types](images/Distribution_of_Anime_Types.png)
+
+---
+
+### 🎬 Top 10 Genres
+
+![Top Genres](images/Top_10_Genres.png)
+
+---
 
 ## 🛠️ Tools & Technologies
 
